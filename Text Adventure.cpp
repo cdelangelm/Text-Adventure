@@ -8,8 +8,15 @@
   2. At least three possible endings*/
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Your story starts with";
+    cout << "==============================\n";
+    cout << "ESCAPE      THE      LABYRINTH\n";
+    cout << "==============================\n\n";
+    cout << "A CYOA Story  by  Kyle Sudusky\n\n\n";
+
+    cout << 
+
 }
